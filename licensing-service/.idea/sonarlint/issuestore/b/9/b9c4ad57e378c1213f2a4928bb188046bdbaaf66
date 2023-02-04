@@ -1,0 +1,10 @@
+
+^
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ò€»ğ
+U
+java:S4684-"@Replace this persistent entity with a simple POJO or DTO object.(‚§A
+[
+java:S46842"@Replace this persistent entity with a simple POJO or DTO object.(¶ÛÁšùÿÿÿÿ
+H
+java:S1128
+"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ

@@ -1,0 +1,13 @@
+
+§
+java:S4449B"Annotate the parameter with @javax.annotation.Nullable in method 'getMessage' declaration, or make sure that null can not be passed as argument.(ù·ÎÑ
+¬
+java:S4449""Annotate the parameter with @javax.annotation.Nullable in method 'getMessage' declaration, or make sure that null can not be passed as argument.(¤•ž„ýÿÿÿÿ
+9
+java:S2119N"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+y
+java:S2142Y"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ
+>
+java:S1172^"(Remove this unused method parameter "t".(ç¾Õ‘
+S
+java:S1144^"=Remove this unused private "buildFallbackLicenseList" method.(ç¾Õ‘
